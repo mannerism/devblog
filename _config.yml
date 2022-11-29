@@ -22,7 +22,7 @@ title: Juno's Tech Blog
 email: shy12@case.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my tech blog to write about random technical stuff that I found interesting.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/devblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: junoyu
 github_username: junoyu
